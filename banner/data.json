@@ -1,0 +1,11 @@
+{
+
+    "items": [
+                {"imageUrl": "../images/tbanner/tab1.jpg"},
+                {"imageUrl": "../images/tbanner/tab2.jpg"},
+                {"imageUrl": "../images/tbanner/tab3.jpg"},
+                {"imageUrl": "../images/tbanner/tab4.jpg"}
+            ]
+    
+    
+}
